@@ -1,4 +1,6 @@
-
+//Find the maximum number from an array.
+//You have to use a function like:
+//public static int Maximum(parameter array)
 package findmaximumnumber;
 import java.util.Scanner;
 
@@ -17,9 +19,7 @@ public class FindMaximumNumber {
         for(int i=0; i<n; i++) {
             a[i] = input.nextInt();
         }
-        
-        
-//        maxNumber(a);
+     
         System.out.println("Maximum is:  " +  maxNumber(a));
     }
     
