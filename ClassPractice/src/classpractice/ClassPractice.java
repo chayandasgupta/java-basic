@@ -1,4 +1,4 @@
-// Create a class BUBT with a method showAll(): shows the total number of students. 
+ // Create a class BUBT with a method showAll(): shows the total number of students. 
 // Implement this problem in another class containing main method.
 
 package classpractice;

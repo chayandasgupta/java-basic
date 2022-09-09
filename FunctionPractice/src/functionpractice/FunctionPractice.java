@@ -1,4 +1,4 @@
-
+ 
 package functionpractice;
 import java.util.Scanner;
 
