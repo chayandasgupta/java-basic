@@ -11,7 +11,6 @@ class Area
         this.length  = length;
         this.breadth = breadth;
     }
-    
     public double getArea()
     {   
         return length * breadth;
